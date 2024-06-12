@@ -4,5 +4,5 @@ streamlit
 pandas
 numpy
 pillow
-qdrant-client
+qdrant-client==1.1.1
 transformers
